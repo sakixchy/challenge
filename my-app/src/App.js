@@ -4,9 +4,9 @@ import Sidebar from "./components/Sidebar";
 function App() {
   return (
     <div className={css.App}>
-      {/* Add your components here */}
+    {/* Add your components here */}
       <Sidebar />
-    </div>
+  </div>
   );
 }
 
